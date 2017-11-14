@@ -1,0 +1,27 @@
+/* body {
+    background-image: url("C:\\Users\\Gangelf\\workspace\\Wedding\\Assets\\Photos\\FullBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.mainHeading {
+    font-family: 'Great Vibes', cursive;
+    font-size: 64px;
+    text-align: center;
+    color: black;
+    padding-top: 100px;
+}
+
+#cover-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+#header {
+    position: relative;
+    margin: auto;
+}
