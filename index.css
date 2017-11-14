@@ -1,15 +1,29 @@
-/* body {
+body {
     background-image: url("C:\\Users\\Gangelf\\desktop\\Assets\\Photos\\FullBackground.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-} */
+}
 
 .mainHeading {
-    font-family: 'Great Vibes', cursive;
     font-size: 64px;
     text-align: center;
     color: black;
     padding-top: 100px;
+}
+
+.font {
+    font-family: 'Great Vibes', cursive;
+}
+
+.info {
+    text-align: center;
+    margin: 200px;
+    background-color: white;
+    opacity: .5;
+    border-style: solid;
+    border-width: 5px;
+    display: inline-block;
+    position: relative;
 }
 
 #cover-image {
@@ -19,9 +33,4 @@
     overflow: hidden;
     border-radius: 25px;
     margin: 20px;
-}
-
-#header {
-    position: relative;
-    margin: auto;
 }
